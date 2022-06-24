@@ -1,6 +1,9 @@
-### Olá Sou o Leonardo Santos there 👋
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Leonardo Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Santos;I'm+20+years+old;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+<div>
   <a href="https://github.com/DEVLeosantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVLeosantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVLeosantos&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -27,3 +30,10 @@
   ![Snake animation](https://github.com/DEVLeosantos/DEVLeosantos/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DEVLeosantos}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
